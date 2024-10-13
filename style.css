@@ -23,8 +23,8 @@ body {
 }
 .arrow-left {
   display: block;
-  width: 15px;
-  height: 15px;
+  width: 13px;
+  height: 13px;
   border-top: 3px solid #ffffff;
   border-left: 3px solid #ffffff;
   margin-top: 5px;
@@ -40,7 +40,7 @@ body {
   justify-content: center;
 }
 .header a {
-  font-size: 20px;
+  font-size: 17px;
   font-family: "Barlow", sans-serif;
   font-weight: 400;
   font-style: normal;
