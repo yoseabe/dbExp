@@ -134,7 +134,7 @@ body {
 .bottomNav img {
   filter: invert(37%) sepia(8%) saturate(604%) hue-rotate(169deg)
     brightness(97%) contrast(83%);
-  height: 20px;
+  height: 15px;
 }
 
 .code {
@@ -142,4 +142,8 @@ body {
 }
 .code img {
   width: 100%;
+}
+
+.unclicked {
+  color: #545c64 !important;
 }
