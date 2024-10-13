@@ -73,6 +73,8 @@ body {
 }
 .DTarif {
   padding-top: 100px;
+  padding-left: 2px;
+  padding-right: 2px;
 }
 .DTarif img {
   width: 100%;
