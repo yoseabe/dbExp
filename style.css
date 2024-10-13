@@ -65,8 +65,11 @@ body {
   border-bottom: 1px solid rgb(194, 193, 193);
 }
 .secondNav img {
-  margin-left: 20px;
-  height: 30px;
+  margin-left: 15px;
+  height: 27px;
+}
+.secondNav a {
+  font-size: 14px;
 }
 .DTarif {
   padding-top: 100px;
@@ -78,7 +81,7 @@ body {
 .abtTicket {
   display: flex;
   flex-direction: column;
-  padding-left: 20px;
+  padding-left: 15px;
 }
 .abtTicket a {
   font-family: "Noto Sans Batak", sans-serif;
