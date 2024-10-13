@@ -23,8 +23,8 @@ body {
 }
 .arrow-left {
   display: block;
-  width: 13px;
-  height: 13px;
+  width: 11px;
+  height: 11px;
   border-top: 3px solid #ffffff;
   border-left: 3px solid #ffffff;
   margin-top: 5px;
@@ -40,13 +40,12 @@ body {
   justify-content: center;
 }
 .header a {
-  font-size: 17px;
+  font-size: 16px;
   font-family: "Barlow", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-weight: 300;
   color: white;
-  margin-left: 10px;
 }
 .header span {
   font-family: "Noto Sans Batak", sans-serif;
