@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  max-width: 100%;
+  align-items: center;
+  margin: 0px;
+  overflow-x: hidden;
+  margin-bottom: 100px;
+}
+
+.header {
+  position: fixed;
+  background-color: rgb(39, 41, 55);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 50px;
+}
+.MeineReisenDiv {
+  padding-left: 20px;
+  display: flex;
+}
+.arrow-left {
+  display: block;
+  width: 15px;
+  height: 15px;
+  border-top: 3px solid #ffffff;
+  border-left: 3px solid #ffffff;
+  margin-top: 5px;
+}
+
+.arrow-left {
+  transform: rotate(-45deg);
+}
+.AboDiv {
+  display: flex;
+  width: 100%;
+  position: absolute;
+  justify-content: center;
+}
+.header a {
+  font-size: 20px;
+  font-family: "Barlow", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-weight: 300;
+  color: white;
+  margin-left: 10px;
+}
+.header span {
+  font-family: "Noto Sans Batak", sans-serif;
+  font-weight: 550;
+
+  font-size: 20px;
+  color: white;
+}
+
+.secondNav {
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  margin-top: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgb(151, 151, 151);
+}
+.secondNav img {
+  margin-left: 20px;
+  height: 30px;
+}
+.DTarif {
+  padding-top: 100px;
+}
+.DTarif img {
+  width: 100%;
+}
+
+.abtTicket {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+.abtTicket a {
+  font-family: "Noto Sans Batak", sans-serif;
+}
+
+.qr {
+  margin: 10px 10px 10px 10px;
+}
+.qr img {
+  width: 100%;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+}
+
+.abtInfo {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.abtInfo a {
+  font-family: "Noto Sans Batak", sans-serif;
+  font-weight: 500;
+}
+
+.bottomNav {
+  background-color: rgb(39, 41, 55);
+  height: 60px;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.svg {
+  fill: red;
+}
+
+.bottomNavElement {
+  display: flex;
+  flex-direction: column;
+}
+.bottomNavElement a {
+  font-family: "Noto Sans Batak", sans-serif;
+  color: white;
+  font-size: 10px;
+  padding-top: 10px;
+}
+
+.bottomNav img {
+  filter: invert(37%) sepia(8%) saturate(604%) hue-rotate(169deg)
+    brightness(97%) contrast(83%);
+  height: 20px;
+}
+
+.code {
+  padding: 10px;
+}
+.code img {
+  width: 100%;
+}
