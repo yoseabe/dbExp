@@ -14,9 +14,10 @@ body {
   background-color: rgb(39, 41, 55);
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: end;
   width: 100%;
-  height: 132px;
+  height: 98px;
+  padding: 10px 0px 20px 0px;
 }
 .MeineReisenDiv {
   padding-left: 10px;
@@ -59,7 +60,7 @@ body {
   position: fixed;
   background-color: white;
   width: 100%;
-  margin-top: 92px;
+  margin-top: 119px;
   height: 50px;
   display: flex;
   align-items: center;
@@ -120,7 +121,7 @@ body {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  padding-bottom: 33px;
+  padding-bottom: 30px;
 }
 
 .svg {
