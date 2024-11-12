@@ -152,3 +152,29 @@ body {
 .unclicked {
   color: #545c64 !important;
 }
+
+.entfBtnDiv {
+  display: flex;
+  padding: 0px 10px 0px 10px;
+  justify-content: space-between;
+}
+.entfernenBtn {
+  width: 75vw;
+  font-family: "Noto Sans Batak", sans-serif;
+  justify-content: center;
+  text-align: center;
+  background-color: #f20000;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.dot {
+  justify-content: center;
+  text-align: center;
+  width: 10vw;
+  font-size: 30px;
+  border: 1px solid #a3a3a3;
+  border-radius: 4px;
+}
