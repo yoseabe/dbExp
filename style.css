@@ -16,7 +16,7 @@ body {
   justify-content: space-between;
   align-items: end;
   width: 100%;
-  height: 80px;
+  height: 50px;
   padding: 10px 0px 20px 0px;
 }
 .MeineReisenDiv {
@@ -74,7 +74,7 @@ body {
   font-size: 14px;
 }
 .DTarif {
-  padding-top: 127px;
+  padding-top: 154px;
   padding-left: 2px;
   padding-right: 2px;
 }
