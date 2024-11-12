@@ -16,7 +16,7 @@ body {
   justify-content: space-between;
   align-items: end;
   width: 100%;
-  height: 98px;
+  height: 80px;
   padding: 10px 0px 20px 0px;
 }
 .MeineReisenDiv {
@@ -60,7 +60,7 @@ body {
   position: fixed;
   background-color: white;
   width: 100%;
-  margin-top: 119px;
+  margin-top: 100px;
   height: 50px;
   display: flex;
   align-items: center;
